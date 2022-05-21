@@ -1,4 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
-# pandevents-backend
+Backend for PandEvents application with Strapi & Cloudinary intergration.
